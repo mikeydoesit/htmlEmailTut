@@ -15,7 +15,7 @@ function App() {
                                     <tbody>
                                         <tr>
                                             <td>
-                                                <img src="/img/logo.png" alt="logo" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/logo.png" alt="logo" />
                                                 <h2 style={{fontSize: '28px', fontWeight: '300', margin: '0', lineHeight: '1', padding: '40px 0px 10px'}}>Get Ready For</h2>
                                                 <h1 style={{fontSize: '80px', margin: '0', lineHeight: '1',fontWeight: '700'}}>HERO</h1>
                                                 <p style={{fontSize: '14px', fontWeight: '400', margin: '0', lineHeight: '1.5',fontStyle: 'italic', padding: '30px 0px 40px'}}>
@@ -50,7 +50,7 @@ function App() {
                                             </td>
                                         </tr>
                                         <tr>
-                                          <td align="center" style={{paddingTop: '35px'}}><img src="/img/smartwatch.png" style={{position: 'relative', bottom: '-4px'}}/></td>
+                                          <td align="center" style={{paddingTop: '35px'}}><img src="https://accraecommerce.com/htmlemailimages/smartwatch.png" alt="pink smartwatch" style={{position: 'relative', bottom: '-4px'}}/></td>
                                         </tr>
                                         </tbody>
                                     </table>
@@ -70,7 +70,7 @@ function App() {
                                           <table className="title-icon" cellPadding="0" cellSpacing="0" border="0" style={{fontFamily: 'Open Sans', padding: '0'}}>
                                             <tbody>
                                               <tr>
-                                                <td><img src="/img/bell_icon.png" /></td>
+                                                <td><img src="https://accraecommerce.com/htmlemailimages/bell_icon.png" alt="a bell icon" /></td>
                                                 <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>Notify</td>
                                               </tr>
                                             </tbody>
@@ -98,7 +98,7 @@ function App() {
                                           <table className="title-icon" cellPadding="0" cellSpacing="0" border="0" style={{fontFamily: 'Open Sans', color: '#ffffff', padding: '0'}}>
                                             <tbody>
                                               <tr>
-                                                <td><img src="/img/share_icon.png" /></td>
+                                                <td><img src="https://accraecommerce.com/htmlemailimages/share_icon.png" alt="share icon"/></td>
                                                 <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>Share</td>
                                               </tr>
                                             </tbody>
@@ -126,7 +126,7 @@ function App() {
                                           <table className="title-icon" cellPadding="0" cellSpacing="0" border="0" style={{fontFamily: 'Open Sans', color: '#ffffff', padding: '0'}}>
                                             <tbody>
                                               <tr>
-                                                <td><img src="/img/wifi_icon.png" /></td>
+                                                <td><img src="https://accraecommerce.com/htmlemailimages/wifi_icon.png" alt="wifi icon"/></td>
                                                 <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>Connect</td>
                                               </tr>
                                             </tbody>
@@ -156,7 +156,7 @@ function App() {
                                   <tbody>
                                     <tr>
                                       <td align="center" style={{fontFamily: 'Open Sans', color: '#333333', padding: '36px 0px 5px 0px', fontWeight: '300', textTransform: 'uppercase', fontSize: '24px'}}>
-                                        <img className="image-head-img" src="/img/image_head.jpg"/>
+                                        <img className="image-head-img" src="https://accraecommerce.com/htmlemailimages/image_head.jpg" alt="pink banner" />
                                       </td>
                                     </tr>
                                     <tr>
@@ -175,7 +175,7 @@ function App() {
                                             </tr>
                                             <tr>
                                               <td align="right" className="left-store">
-                                                <img src="/img/appstore.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/appstore.png" alt="app store call to action" />
                                               </td>
                                             </tr>
                                           </tbody>
@@ -189,7 +189,7 @@ function App() {
                                             </tr>
                                             <tr>
                                               <td align="left" className="right-store">
-                                                <img src="/img/playstore.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/playstore.png" alt="Google Playstore call to action" />
                                               </td>
                                             </tr>
                                           </tbody>
@@ -207,7 +207,7 @@ function App() {
                                 <table className="one-solution" width="100%" align="left" cellPadding="0" cellSpacing="0" border="0" style={{background: '#141414',fontFamily: 'Open Sans', color: '#ffffff', padding: '50px 0px'}}>
                                   <tr>
                                     <td>
-                                      <img src="/img/one_app.jpg" style={{width: '100%'}}/>
+                                      <img src="https://accraecommerce.com/htmlemailimages/one_app.jpg" alt="best app solution" style={{width: '100%'}}/>
                                     </td>
                                   </tr>
                                 </table>
@@ -229,7 +229,7 @@ function App() {
                                       <table className="left-column" width="33.33%" align="left" cellPadding="0" cellSpacing="0" border="0" style={{background: '#fafafa',fontFamily: 'Open Sans', padding: '20px 0'}}>
                                         <tbody>
                                           <tr>
-                                            <td align="center"><img src="/img/watch_screen.png" /></td>
+                                            <td align="center"><img src="https://accraecommerce.com/htmlemailimages/watch_screen.png" alt="watch screen" /></td>
                                           </tr>
                                           <tr>
                                             <td align="center"><h5 style={{fontFamily: 'Open Sans', color: '#333333', padding: '15px 0px 5px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px', margin: '0'}}>SYNC</h5></td>
@@ -249,7 +249,7 @@ function App() {
                                       <table className="middle-column" width="33.33%" align="left" cellPadding="0" cellSpacing="0" border="0" style={{background: '#fafafa',fontFamily: 'Open Sans', padding: '20px 0'}}>
                                         <tbody>
                                           <tr>
-                                            <td align="center"><img src="/img/watch_screen.png" /></td>
+                                            <td align="center"><img src="https://accraecommerce.com/htmlemailimages/watch_screen.png" alt="watch screen" /></td>
                                           </tr>
                                           <tr>
                                             <td align="center"><h5 style={{fontFamily: 'Open Sans', color: '#333333', padding: '15px 0px 5px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px', margin: '0'}}>Share</h5></td>
@@ -269,7 +269,7 @@ function App() {
                                       <table className="right-column" width="33.33%" align="left" cellPadding="0" cellSpacing="0" border="0" style={{background: '#fafafa',fontFamily: 'Open Sans', padding: '20px 0'}}>
                                         <tbody>
                                           <tr>
-                                            <td align="center"><img src="/img/watch_screen.png" /></td>
+                                            <td align="center"><img src="https://accraecommerce.com/htmlemailimages/watch_screen.png" alt="watch screen" /></td>
                                           </tr>
                                           <tr>
                                             <td align="center"><h5 style={{fontFamily: 'Open Sans', color: '#333333', padding: '15px 0px 5px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px', margin: '0'}}>Stats</h5></td>
@@ -314,7 +314,7 @@ function App() {
                                                   <tbody>
                                                     <tr>
                                                       <td>
-                                                        <img src="/img/phone_icon.png" />
+                                                        <img src="https://accraecommerce.com/htmlemailimages/phone_icon.png" alt="phone icon" />
                                                       </td>
                                                       <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>
                                                         <h3>Responsive Layout</h3>
@@ -341,7 +341,7 @@ function App() {
                                                   <tbody>
                                                     <tr>
                                                       <td>
-                                                        <img src="/img/eye.png" />
+                                                        <img src="https://accraecommerce.com/htmlemailimages/eye.png" alt="biometric eye icon" />
                                                       </td>
                                                       <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>
                                                         <h3>Retina Ready</h3>
@@ -384,7 +384,7 @@ function App() {
                                                   <tbody>
                                                     <tr>
                                                       <td>
-                                                        <img src="/img/check_icon.png" />
+                                                        <img src="https://accraecommerce.com/htmlemailimages/check_icon.png" alt="check icon" />
                                                       </td>
                                                       <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>
                                                         <h3>Various Skins</h3>
@@ -411,7 +411,7 @@ function App() {
                                                   <tbody>
                                                     <tr>
                                                       <td>
-                                                        <img src="/img/settings_icon.png" />
+                                                        <img src="https://accraecommerce.com/htmlemailimages/settings_icon.png" alt="settings icon" />
                                                       </td>
                                                       <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>
                                                         <h3>Great Performance</h3>
@@ -454,7 +454,7 @@ function App() {
                                                   <tbody>
                                                     <tr>
                                                       <td>
-                                                        <img src="/img/menu_icon.png" />
+                                                        <img src="https://accraecommerce.com/htmlemailimages/menu_icon.png" alt="menu icon" />
                                                       </td>
                                                       <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>
                                                         <h3>User Friendly menus</h3>
@@ -481,7 +481,7 @@ function App() {
                                                   <tbody>
                                                     <tr>
                                                       <td>
-                                                        <img src="/img/share_icon.png" />
+                                                        <img src="https://accraecommerce.com/htmlemailimages/share_icon.png" alt="share icon" />
                                                       </td>
                                                       <td style={{fontFamily: 'Open Sans', color: '#333333', padding: '0px 0px 0px 15px', fontWeight: '700', textTransform: 'uppercase', fontSize: '14px'}}>
                                                         <h3>Social Share</h3>
@@ -548,32 +548,32 @@ function App() {
                                           <tr>
                                             <td align="center">
                                               <a href="twitter.com">
-                                                <img src="/img/twitter_icon.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/twitter_icon.png" alt="twitter icon" />
                                               </a>
                                             </td>
                                             <td align="center">
                                               <a href="facebook.com">
-                                                <img src="/img/facebook_icon.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/facebook_icon.png" alt="facebook icon" />
                                               </a>
                                             </td>
                                             <td align="center">
                                               <a href="google.com">
-                                                <img src="/img/google_icon.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/google_icon.png" alt="google icon"  />
                                               </a>
                                             </td>
                                             <td align="center">
                                               <a href="pinterest.com">
-                                                <img src="/img/pinterest_icon.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/pinterest_icon.png" alt="pinterest icon"  />
                                               </a>
                                             </td>
                                             <td align="center">
                                               <a href="linkedin.com">
-                                                <img src="/img/linkedin_icon.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/linkedin_icon.png" alt="linkedin icon" />
                                               </a>
                                             </td>
                                             <td align="center">
                                               <a href="youtube.com">
-                                                <img src="/img/youtube_icon.png" />
+                                                <img src="https://accraecommerce.com/htmlemailimages/youtube_icon.png" alt="youtube icon"  />
                                               </a>
                                             </td>
                                           </tr>
